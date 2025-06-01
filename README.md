@@ -5,3 +5,7 @@
 输出效果见'计算机学报__Debug模板.pdf'，所见即所得。
 
 注：编译时请尽可能选择XeLaTex作为编译器，其他版本的LaTex可能会导致无法生成PDF文件或者其他未知的问题。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tdzdele/CHINESE-JOURNAL-OF-COMPUTERS--Overleaf-Latex-Template&type=Date)](https://www.star-history.com/#Tdzdele/CHINESE-JOURNAL-OF-COMPUTERS--Overleaf-Latex-Template&Date)
